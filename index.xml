@@ -24,8 +24,7 @@ Network Security
       <pubDate>Tue, 29 Jun 2021 15:58:48 -0700</pubDate>
       
       <guid>/projects/</guid>
-      <description>###ORTSOC Infrastructure
-This project was part of my senior capstone at Oregon State University.My team and I designed and implemented security infrastructure for The Oregon Research and Teaching Security Operations Center (ORTSOC). The ORTSOC is a learning SOC for students that provides security operations for small organizations that may not be able to afford the services of a well-known or established SOC. This infrastructure uses the Elastic Stack, nginx, wireguard, BIND9 and other components which create the foundation of the infrastructure.</description>
+      <description>ORTSOC Infrastructure This project was part of my senior capstone at Oregon State University.My team and I designed and implemented security infrastructure for The Oregon Research and Teaching Security Operations Center (ORTSOC). The ORTSOC is a learning SOC for students that provides security operations for small organizations that may not be able to afford the services of a well-known or established SOC. This infrastructure uses the Elastic Stack, nginx, wireguard, BIND9 and other components which create the foundation of the infrastructure.</description>
     </item>
     
   </channel>
